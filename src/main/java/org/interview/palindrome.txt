@@ -1,0 +1,23 @@
+Create your solution branch using git in terminal - <yourname>_solution
+
+
+Add two classes to this package, one Called Palindrome and the other PalindromeAdvanced
+
+The Palindrome class will need to be capable of answering if a string is a palindrome(a word, phrase, or sequence that reads the same backward as forward)
+We want the class to be able to answer this question for a word or optionally a phrase and the choice to either be case sensitive or not.
+
+The PalindromeAdvanced class will answer the same thing but will always answer for a word or phrase regardless of its case.
+It can also store an array of strings that can be tested to make sure all the strings are words or phrases regardless of its case.
+
+
+
+SAMPLE TEST CASES
+-----------------
+kayak
+Kayak
+no melon, no lemon?
+No melon, no lemon?
+test
+Test
+captain, my captain.
+Captain, my captain.
